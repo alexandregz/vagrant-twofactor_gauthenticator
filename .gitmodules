@@ -1,0 +1,3 @@
+[submodule "plugins/twofactor_gauthenticator"]
+	path = plugins/twofactor_gauthenticator
+	url = https://github.com/alexandregz/twofactor_gauthenticator
