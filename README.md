@@ -15,6 +15,7 @@ $ vagrant up
 Requirements
 ------------
 https://github.com/cogitatio/vagrant-hostsupdater
+
 To install:
 
 ```
